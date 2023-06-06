@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+    color: white;
+}
+
+a{
+    color: white;
+}
+.link{
+ color: rgb(255, 0, 43)
+}
+
+.heading3{
+    color:brown;
+}
+.bio{
+    font-family: monospace;
+    font-style: italic;
+}
+.avalability{
+    font-weight: 500;
+    font-family: sans-serif;
+   
+
+}
+.wagons{
+    font-weight: 500;
+}
+.heading2{
+    color: yellow;
+    margin-left:175px;
+}
+.heading3{
+    margin-left: 200px;
+}
